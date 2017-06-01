@@ -1,4 +1,4 @@
-# ALbedo - HTML Template
+# Albedo - HTML Template
 
 HTML Template build based on the [Albedo - Universal and Multipurpose Soft Material PSD Template](https://themeforest.net/item/albedo-universal-multipurpose-soft-material-psd-template/18342218).
 
