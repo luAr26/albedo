@@ -1,0 +1,12 @@
+{
+  "name": "albedo_front_end",
+  "version": "1.0.0",
+  "description": "Front end for Albedo WordPress theme",
+  "main": "index.js",
+  "repository": "https://github.com/luAr26/albedo",
+  "author": "luAr26",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
